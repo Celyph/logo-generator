@@ -15,6 +15,10 @@
 ![Screenshot of the working generator.](./assets/image.png)
 
 
+https://github.com/Celyph/logo-generator/assets/122329678/b4277545-0fe5-4226-b3f6-f777c60cb398
+
+
+
 ## Credits
 
 I used the ReadMe guide from [https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide).
